@@ -1,7 +1,5 @@
 # -AppTheme 属性详解
 
-[image](http://images2015.cnblogs.com/blog/1001760/201703/1001760-20170324122648283-2094267376.png)
-
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!--Appbar背景色，应用的主要色调，actionBar默认使用该颜色-->
         <item name="android:colorPrimary">@color/material_animations_primary</item>
