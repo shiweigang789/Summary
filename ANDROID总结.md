@@ -16,5 +16,4 @@
 
 [9、图片加载框架]()
 
-[10、Java 多线程面试题及答案](https://mp.weixin.qq.com/s/TixFzi3JjXy0nQtviuVFOA)
 
