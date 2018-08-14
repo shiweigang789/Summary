@@ -3,3 +3,5 @@
 [Android开发Gradle你需要知道的知识](https://www.jianshu.com/p/8b8a550246bd)
 
 [Gradle多渠道打包(动态设定App名称，应用图标，替换常量，更改包名，变更渠道)](https://www.jianshu.com/p/533240d222d3)
+
+[gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
