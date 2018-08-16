@@ -4,4 +4,6 @@
 
 #### JAVA虚拟机
 
-[深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
+[1、深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
+
+[2、深入理解Java Class文件格式（一）](https://blog.csdn.net/zhangjg_blog/article/details/21486985)
