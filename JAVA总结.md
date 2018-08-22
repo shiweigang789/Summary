@@ -8,6 +8,8 @@
 
 [2、深入理解Java Class文件格式（一）](https://blog.csdn.net/zhangjg_blog/article/details/21486985)
 
+[Java虚拟机之Class类文件结构](https://www.jianshu.com/p/e60cd391845a)
+
 [Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）](https://blog.csdn.net/luanlouis/article/details/24589193)
 
 [反射注解与动态代理综合使用](https://www.jianshu.com/p/fad15887a05e)
