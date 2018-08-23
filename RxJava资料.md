@@ -13,3 +13,5 @@
 [这可能是最好的RxJava 2.x 入门教程（四）](https://www.jianshu.com/p/c08bfc58f4b6)
 
 [这可能是最好的RxJava 2.x 入门教程（五）](https://www.jianshu.com/p/81fac37430dd)
+
+[轮询的一种解决方案（RxJava）](https://www.jianshu.com/p/82a79a452dba)
