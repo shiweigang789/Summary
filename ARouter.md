@@ -1,3 +1,5 @@
+[从零开始搭建Android组件化框架](https://www.jianshu.com/p/ba32488f9555)
+
 [Android模块开发之APT技术](https://www.jianshu.com/p/9616f4a462bd)
 
 [Android模块开发之SPI](https://www.jianshu.com/p/deeb39ccdc53)
