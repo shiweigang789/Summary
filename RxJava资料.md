@@ -17,3 +17,5 @@
 [轮询的一种解决方案（RxJava）](https://www.jianshu.com/p/82a79a452dba)
 
 [RxJava中常见的几种Subject](https://blog.csdn.net/dbs1215/article/details/52444196)
+
+[RxJava 第二篇 - Subject使用及示例](https://blog.csdn.net/love_yan_1314/article/details/65937354)
