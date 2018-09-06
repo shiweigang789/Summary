@@ -15,3 +15,5 @@
 [这可能是最好的RxJava 2.x 入门教程（五）](https://www.jianshu.com/p/81fac37430dd)
 
 [轮询的一种解决方案（RxJava）](https://www.jianshu.com/p/82a79a452dba)
+
+[RxJava中常见的几种Subject](https://blog.csdn.net/dbs1215/article/details/52444196)
