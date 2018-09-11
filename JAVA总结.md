@@ -13,3 +13,5 @@
 [Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）](https://blog.csdn.net/luanlouis/article/details/24589193)
 
 [反射注解与动态代理综合使用](https://www.jianshu.com/p/fad15887a05e)
+
+[Java 垃圾回收机制](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493136&idx=1&sn=e75362b0e979bbb1d2bfba91dd0ac3b1&chksm=8eec856fb99b0c79df894fd997ec207a18ec67248e3e64edd4bd7914950f96de175824ec207d&mpshare=1&scene=23&srcid=0911z3Md0pdELqW7fkC1X7pr#rd)
