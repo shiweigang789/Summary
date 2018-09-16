@@ -11,3 +11,13 @@
 5.[Android View体系（五）从源码解析View的事件分发机制](https://www.jianshu.com/p/3e0ebfa4926a)
 
 6.[Android View体系（六）从源码解析Activity的构成](https://www.jianshu.com/p/c8697f8ef304)
+
+7.[Android View体系（七）从源码解析View的measure流程](https://www.jianshu.com/p/5e30a84acf70)
+
+8.[Android View体系（八）从源码解析View的layout和draw流程](https://www.jianshu.com/p/c2e9fc2a6995)
+
+9.[Android View体系（九）自定义View](https://www.jianshu.com/p/6b7e5d2d51ab)
+
+10.[Android View体系（十）自定义组合控件](https://www.jianshu.com/p/25aa5de47b11)
+
+11.[Android View体系（十一）自定义ViewGroup](https://www.jianshu.com/p/08e7d4a5e7ab)
