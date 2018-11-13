@@ -5,3 +5,5 @@
 [Gradle多渠道打包(动态设定App名称，应用图标，替换常量，更改包名，变更渠道)](https://www.jianshu.com/p/533240d222d3)
 
 [gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
+
+[一个项目如何编译多个不同签名、包名、资源等，的apk？](https://blog.xujiaji.com/post/android-project-one-for-more)
