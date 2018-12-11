@@ -9,3 +9,5 @@
 [ARouter解析二：页面跳转源码分析](https://www.jianshu.com/p/539e76bf2fd9)
 
 [ARouter解析三](https://www.jianshu.com/p/27c6930f9b69)
+
+[该用路由来管理你的界面跳转了](https://www.jianshu.com/p/95f8dab88b04)
