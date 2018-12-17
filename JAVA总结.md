@@ -15,6 +15,7 @@
 [反射注解与动态代理综合使用](https://www.jianshu.com/p/fad15887a05e)
 
 [Java 垃圾回收机制](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649493136&idx=1&sn=e75362b0e979bbb1d2bfba91dd0ac3b1&chksm=8eec856fb99b0c79df894fd997ec207a18ec67248e3e64edd4bd7914950f96de175824ec207d&mpshare=1&scene=23&srcid=0911z3Md0pdELqW7fkC1X7pr#rd)
+[JVM的内存区域划分](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247485770&idx=1&sn=3b15b23960474ac53cc012d452599d9b&chksm=ebb740e6dcc0c9f00169ca951b4a7eda3e2e79aa4e4baea2405f1409ac8ce47fd32193a26eb8&mpshare=1&scene=23&srcid=1216oopDNOuQje4GQGPQvpoE#rd)
 
 
 #### Java集合
