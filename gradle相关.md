@@ -7,3 +7,5 @@
 [gradle超详细解析](https://www.jianshu.com/p/822e44a5ea97)
 
 [一个项目如何编译多个不同签名、包名、资源等，的apk？](https://blog.xujiaji.com/post/android-project-one-for-more)
+
+[使用gradle集成360加固](https://blog.csdn.net/qq_17766199/article/details/74929844)
