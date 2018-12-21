@@ -9,3 +9,5 @@
 [一个项目如何编译多个不同签名、包名、资源等，的apk？](https://blog.xujiaji.com/post/android-project-one-for-more)
 
 [使用gradle集成360加固](https://blog.csdn.net/qq_17766199/article/details/74929844)
+
+[实践Jenkins+Gradle实现Android自动化构建，并上传至fir.im](https://blog.csdn.net/cunxinaimei/article/details/52540197)
