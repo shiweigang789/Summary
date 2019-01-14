@@ -13,3 +13,5 @@
 [实践Jenkins+Gradle实现Android自动化构建，并上传至fir.im](https://blog.csdn.net/cunxinaimei/article/details/52540197)
 
 [【Android】方法数查看工具---DexCount](https://blog.csdn.net/sodino/article/details/56482070)
+
+[史上最全App编译打包提速实践](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247488134&idx=1&sn=284d8d6039f3745f3dfd0cae09fa71fc&chksm=eae1e7d4dd966ec2191f4a673abfb79a10e543b1d89fd2a31eb94b22348051ea32cd16c23e93&mpshare=1&scene=23&srcid=0114pAKCtjNpEGYQMyWjIPD4#rd)
