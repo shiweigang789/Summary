@@ -11,3 +11,5 @@
 [使用gradle集成360加固](https://blog.csdn.net/qq_17766199/article/details/74929844)
 
 [实践Jenkins+Gradle实现Android自动化构建，并上传至fir.im](https://blog.csdn.net/cunxinaimei/article/details/52540197)
+
+[【Android】方法数查看工具---DexCount](https://blog.csdn.net/sodino/article/details/56482070)
