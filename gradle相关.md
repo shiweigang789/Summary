@@ -17,3 +17,5 @@
 [史上最全App编译打包提速实践](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247488134&idx=1&sn=284d8d6039f3745f3dfd0cae09fa71fc&chksm=eae1e7d4dd966ec2191f4a673abfb79a10e543b1d89fd2a31eb94b22348051ea32cd16c23e93&mpshare=1&scene=23&srcid=0114pAKCtjNpEGYQMyWjIPD4#rd)
 
 [VariantsSample](https://github.com/Young-Joe/VariantsSample)
+
+[看似无用，实则重要的Gradle Wrapper](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843617&idx=1&sn=de27f38a63a95368baa773cda463130d&chksm=83bf6efab4c8e7ec9aa85b397f5cc211940da51b68342962ce7f466bfa921a759bde32524166&mpshare=1&scene=23&srcid=01230fPjaP0Jhsc5TWCviCSL#rd)
