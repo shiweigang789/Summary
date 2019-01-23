@@ -18,6 +18,7 @@
 
 [JVM的内存区域划分](https://mp.weixin.qq.com/s?__biz=MzI4MDYwMDc3MQ==&mid=2247485770&idx=1&sn=3b15b23960474ac53cc012d452599d9b&chksm=ebb740e6dcc0c9f00169ca951b4a7eda3e2e79aa4e4baea2405f1409ac8ce47fd32193a26eb8&mpshare=1&scene=23&srcid=1216oopDNOuQje4GQGPQvpoE#rd)
 
+[Linux与JVM的内存关系分析](http://www.open-open.com/lib/view/open1420814127390.html)
 
 #### Java集合
 
