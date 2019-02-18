@@ -19,3 +19,5 @@
 [VariantsSample](https://github.com/Young-Joe/VariantsSample)
 
 [看似无用，实则重要的Gradle Wrapper](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843617&idx=1&sn=de27f38a63a95368baa773cda463130d&chksm=83bf6efab4c8e7ec9aa85b397f5cc211940da51b68342962ce7f466bfa921a759bde32524166&mpshare=1&scene=23&srcid=01230fPjaP0Jhsc5TWCviCSL#rd)
+
+[使用Nexus2搭建私有库](https://www.jianshu.com/p/156ea94cb2a3)
