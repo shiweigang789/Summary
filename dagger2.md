@@ -5,3 +5,5 @@
 [Dagger 2 完全解析（一），Dagger 2 的基本使用与原理](https://www.jianshu.com/p/26d9f99ea3bb)
 
 [Dagger 2 完全解析（二），进阶使用 Lazy、Qualifier、Scope 等](https://www.jianshu.com/p/9703a931c7e7)
+
+[Dagger 2 完全解析（三），Component 的组织关系与 SubComponent](https://www.jianshu.com/p/2ac2f39cb25f)
