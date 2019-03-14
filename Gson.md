@@ -3,3 +3,5 @@
 [你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
 
 [Gson解析空字符串异常的处理](https://www.jianshu.com/p/e03a96f5a321)
+
+[Gson解析服务端返回的多种类型的JSON](https://blog.csdn.net/mjb00000/article/details/79297677)
