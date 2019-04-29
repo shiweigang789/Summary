@@ -25,3 +25,5 @@
 [View.inflate() 的前世今生](https://www.jianshu.com/p/342890fcf5c9)
 
 [「Android 安全架构」你真的了解权限机制吗？](https://www.jianshu.com/p/a17c8bed79d9)
+
+[Android 常用 adb 命令总结](https://www.cnblogs.com/bravesnail/articles/5850335.html)
