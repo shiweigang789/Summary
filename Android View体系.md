@@ -21,3 +21,8 @@
 10.[Android View体系（十）自定义组合控件](https://www.jianshu.com/p/25aa5de47b11)
 
 11.[Android View体系（十一）自定义ViewGroup](https://www.jianshu.com/p/08e7d4a5e7ab)
+
+
+[你对LinearLayout到底有多少了解？（一）-属性篇](https://www.jianshu.com/p/650c3fd7e6ab)
+
+[ConstraintLayout使用指南](https://www.jianshu.com/p/958887ed4f5f)
