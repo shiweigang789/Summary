@@ -27,3 +27,5 @@
 [「Android 安全架构」你真的了解权限机制吗？](https://www.jianshu.com/p/a17c8bed79d9)
 
 [Android 常用 adb 命令总结](https://www.cnblogs.com/bravesnail/articles/5850335.html)
+
+[探究Android View 绘制流程，Xml 文件到 View 对象的转换过程](https://www.jianshu.com/p/eccd8ba87e8b)
