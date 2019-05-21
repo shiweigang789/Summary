@@ -7,3 +7,5 @@
 [Kotlin使用优化（一）](https://www.jianshu.com/p/59f18c3afc9c)
 
 [Kotlin：代理真的很简单啊](https://www.jianshu.com/p/e1abaa5b90b6)
+
+[白话文转文言文——Kotlin代码简洁之道](https://juejin.im/post/5cc97780e51d453a7f5ece32)
