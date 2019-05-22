@@ -9,3 +9,5 @@
 [Kotlin：代理真的很简单啊](https://www.jianshu.com/p/e1abaa5b90b6)
 
 [白话文转文言文——Kotlin代码简洁之道](https://juejin.im/post/5cc97780e51d453a7f5ece32)
+
+[望文生义的代码 —— Kotlin代码简洁之道（二）](https://juejin.im/post/5cdb9536e51d456e5c5babd4)
