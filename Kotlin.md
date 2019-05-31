@@ -25,3 +25,5 @@
 [Kotlin知识归纳（三） —— 顶层成员与扩展](https://juejin.im/post/5cebff51e51d45777540fd37)
 
 [Kotlin直接使用控件ID原理解析](https://juejin.im/post/5c161975f265da612b137e83)
+
+[JavaKotlinAndroidGuide](https://github.com/leavesC/JavaKotlinAndroidGuide)
