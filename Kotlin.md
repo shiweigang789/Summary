@@ -27,3 +27,5 @@
 [Kotlin直接使用控件ID原理解析](https://juejin.im/post/5c161975f265da612b137e83)
 
 [JavaKotlinAndroidGuide](https://github.com/leavesC/JavaKotlinAndroidGuide)
+
+[当Kotlin完美邂逅设计模式之单例模式(一)](https://juejin.im/post/5ca9ac0fe51d452b616f2c7d)
