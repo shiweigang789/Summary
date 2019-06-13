@@ -23,3 +23,5 @@
 [使用Nexus2搭建私有库](https://www.jianshu.com/p/156ea94cb2a3)
 
 [要点提炼| Gradle指南](https://www.jianshu.com/p/1274c1f1b6a4)
+
+[不一样的Gradle多渠道配置总结](https://juejin.im/post/5cdbf5e3e51d45473d10ff11)
