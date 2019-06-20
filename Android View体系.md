@@ -26,3 +26,6 @@
 [你对LinearLayout到底有多少了解？（一）-属性篇](https://www.jianshu.com/p/650c3fd7e6ab)
 
 [ConstraintLayout使用指南](https://www.jianshu.com/p/958887ed4f5f)
+
+[探析View工作的原理，真的很简单？](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650246351&idx=1&sn=38d0c25ebd6e90541ecf0d3b532441ae&chksm=88637da0bf14f4b6c50127eb5a9f5f7851bab66c77d5d9be0496da6ceaeff7022b2a4c268e10&mpshare=1&scene=23&srcid=#rd)
+
