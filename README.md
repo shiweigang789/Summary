@@ -10,3 +10,5 @@
 #### 第三方库
 
 [Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
+
+[一些实用的开源炫酷框架—值得你去了解](https://juejin.im/post/596c16636fb9a06bbb32dce1)
