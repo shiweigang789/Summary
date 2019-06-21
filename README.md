@@ -4,6 +4,7 @@
 
 [Android – Drawable 详解](https://cloud.tencent.com/developer/article/1154728)
 
+[Android shape属性](https://www.jianshu.com/p/33542b7aceca)
 
 
 
