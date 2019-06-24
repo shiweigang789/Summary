@@ -18,3 +18,5 @@
 #### RecyclerView
 
 [RecyclerView.ItemDecoration的详解使用](https://www.jianshu.com/p/41ae13016243)
+
+[FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
