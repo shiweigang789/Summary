@@ -27,3 +27,5 @@
 [ConstraintLayoutSamples](https://github.com/feng0403/ConstraintLayoutSamples)
 
 [约束布局ConstraintLayout](https://www.jianshu.com/p/17ec9bd6ca8a)
+
+[实战篇ConstraintLayout](https://blog.csdn.net/u012551350/article/details/80204715)
