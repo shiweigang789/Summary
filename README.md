@@ -21,6 +21,8 @@
 
 [FocusLayoutManager](https://github.com/CCY0122/FocusLayoutManager)
 
+[非源码向： RecyclerView 的缓存机制](https://blog.csdn.net/weixin_43130724/article/details/90068112)
+
 
 #### ConstraintLayout
 
