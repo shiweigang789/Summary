@@ -1,3 +1,6 @@
+# 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
+
+
 #### Drawable
 
 [Android中的各种Drawable类详解](https://www.jianshu.com/p/578125001dc2)
