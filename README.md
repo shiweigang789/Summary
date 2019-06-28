@@ -40,3 +40,5 @@
 #### Kotlin知识
 
 [Kotlin知识归纳（六） —— 类型系统](https://juejin.im/post/5cefa6d7f265da1bac3ffba4)
+
+[Kotlin知识归纳（七） —— 集合](https://juejin.im/post/5d1045bc5188255a4f75be69)
