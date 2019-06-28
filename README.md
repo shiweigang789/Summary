@@ -36,3 +36,7 @@
 [实战篇ConstraintLayout](https://blog.csdn.net/u012551350/article/details/80204715)
 
 [Android 横竖屏切换，约束布局动态修改约束](https://juejin.im/post/5d00d5eef265da1bd260e4d8)
+
+#### Kotlin知识
+
+[Kotlin知识归纳（六） —— 类型系统](https://juejin.im/post/5cefa6d7f265da1bac3ffba4)
