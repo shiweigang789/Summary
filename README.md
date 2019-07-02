@@ -52,3 +52,5 @@
 #### View
 
 [getGlobalVisibleRect() 与 getLocalVisibleRect()](https://www.jianshu.com/p/2aa908f6a2e6)
+
+[View 的可见性检查](https://www.jianshu.com/p/30b0ae304518)
