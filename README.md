@@ -48,3 +48,7 @@
 #### Activity
 
 [浅谈 onAttachedToWindow 和 onDetachedFromWindow](https://juejin.im/post/5d14c9b4e51d45777a1261d1)
+
+#### View
+
+[getGlobalVisibleRect() 与 getLocalVisibleRect()](https://www.jianshu.com/p/2aa908f6a2e6)
