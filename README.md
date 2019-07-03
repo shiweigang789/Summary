@@ -56,3 +56,7 @@
 [getGlobalVisibleRect() 与 getLocalVisibleRect()](https://www.jianshu.com/p/2aa908f6a2e6)
 
 [View 的可见性检查](https://www.jianshu.com/p/30b0ae304518)
+
+#### Retrofit 2.0
+
+[详细的Retrofit 2.0 源码分析指南](https://juejin.im/post/5a9f36acf265da23a1416cb6#heading-32)
