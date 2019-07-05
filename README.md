@@ -21,6 +21,8 @@
 
 [YcTabLyout(反射系统TabLayout实现的自定义TabLayout)](https://github.com/yangchong211/YcTabLyout)
 
+[Muti-Barrage(弹幕库)](https://github.com/mCyp/Muti-Barrage)
+
 
 #### RecyclerView
 
