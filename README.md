@@ -9,6 +9,8 @@
 
 [Android shape属性](https://www.jianshu.com/p/33542b7aceca)
 
+[Android 这些 Drawable 你都会用吗？Part1](https://juejin.im/post/5d173048f265da1bcb4f410e)
+
 #### 第三方库
 
 [Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
