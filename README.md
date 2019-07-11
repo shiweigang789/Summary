@@ -70,3 +70,7 @@
 [详细的Retrofit 2.0 源码分析指南](https://juejin.im/post/5a9f36acf265da23a1416cb6#heading-32)
 
 [从架构角度看Retrofit的作用、原理和启示](https://www.jianshu.com/p/f57b7cdb1c99)
+
+#### 国际化
+
+[Android 中东阿拉伯语适配，看这一篇够了](https://www.jianshu.com/p/d8cd294a5c31)
