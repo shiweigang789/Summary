@@ -82,3 +82,5 @@
 #### RXJAVA
 
 [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+
+[RxJava2-Operators-Magician](https://github.com/KunMinX/RxJava2-Operators-Magician)
