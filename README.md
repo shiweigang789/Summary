@@ -86,3 +86,5 @@
 [RxJava2-Operators-Magician](https://github.com/KunMinX/RxJava2-Operators-Magician)
 
 [RxJava2 源码分析(一)](https://www.jianshu.com/p/a488318dec0e)
+
+[RxJava2 源码分析(二)](https://www.jianshu.com/p/efbb4fbff8db)
