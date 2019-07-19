@@ -25,11 +25,13 @@
 
 [XPopup(功能强大的弹窗)](https://github.com/li-xiaojun/XPopup)
 
-[EasyPopup](https://github.com/zyyoona7/EasyPopup)
+[EasyPopup(弹窗库)](https://github.com/zyyoona7/EasyPopup)
 
 [YcTabLyout(反射系统TabLayout实现的自定义TabLayout)](https://github.com/yangchong211/YcTabLyout)
 
 [Muti-Barrage(弹幕库)](https://github.com/mCyp/Muti-Barrage)
+
+[Matisse(图片选择和剪切)](https://github.com/li-xiaojun/Matisse)
 
 
 #### RecyclerView
