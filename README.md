@@ -4,6 +4,9 @@
 
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
 
+#### Flutter
+
+[Flutter-Notebook(学习资料)](https://github.com/OpenFlutter/Flutter-Notebook)
 
 #### Drawable
 
@@ -16,23 +19,6 @@
 [Android 这些 Drawable 你都会用吗？Part1](https://juejin.im/post/5d173048f265da1bcb4f410e)
 
 [Android 这些 Drawable 你都会用吗？Part2](https://juejin.im/post/5d18e98df265da1b827ab200)
-
-#### 第三方库
-
-[Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
-
-[一些实用的开源炫酷框架—值得你去了解](https://juejin.im/post/596c16636fb9a06bbb32dce1)
-
-[XPopup(功能强大的弹窗)](https://github.com/li-xiaojun/XPopup)
-
-[EasyPopup(弹窗库)](https://github.com/zyyoona7/EasyPopup)
-
-[YcTabLyout(反射系统TabLayout实现的自定义TabLayout)](https://github.com/yangchong211/YcTabLyout)
-
-[Muti-Barrage(弹幕库)](https://github.com/mCyp/Muti-Barrage)
-
-[Matisse(图片选择和剪切)](https://github.com/li-xiaojun/Matisse)
-
 
 #### RecyclerView
 
@@ -98,3 +84,19 @@
 [RxJava2 源码分析(二)](https://www.jianshu.com/p/efbb4fbff8db)
 
 [Rxjava2源码分析(三)](https://www.jianshu.com/p/61f1b9ace4c9)
+
+#### 第三方库
+
+[Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
+
+[一些实用的开源炫酷框架—值得你去了解](https://juejin.im/post/596c16636fb9a06bbb32dce1)
+
+[XPopup(功能强大的弹窗)](https://github.com/li-xiaojun/XPopup)
+
+[EasyPopup(弹窗库)](https://github.com/zyyoona7/EasyPopup)
+
+[YcTabLyout(反射系统TabLayout实现的自定义TabLayout)](https://github.com/yangchong211/YcTabLyout)
+
+[Muti-Barrage(弹幕库)](https://github.com/mCyp/Muti-Barrage)
+
+[Matisse(图片选择和剪切)](https://github.com/li-xiaojun/Matisse)
