@@ -6,6 +6,8 @@
 
 [glide-transformations(图片显示效果转换)](https://github.com/wasabeef/glide-transformations)
 
+[GlideImageView(图片显示效果转换)](https://github.com/sunfusheng/GlideImageView)
+
 
 #### 线程相关
 
