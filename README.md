@@ -4,6 +4,8 @@
 
 [Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
 
+[glide-transformations(图片显示效果转换)](https://github.com/wasabeef/glide-transformations)
+
 
 #### 线程相关
 
