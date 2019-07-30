@@ -60,6 +60,8 @@
 
 [Kotlin 协程入门](https://juejin.im/post/5d0afe0bf265da1b7152fb00)
 
+[译】Kotlin coroutines meeting Android(协程)](https://juejin.im/post/5d3128ebe51d4510624f9885)
+
 [Kotlin实战：用实战代码更深入地理解预定义扩展函数](https://juejin.im/post/5d061caef265da1b8f1ac00a)
 
 [Kotlin进阶：动画代码太丑，用DSL动画库拯救，像说话一样写代码哟！](https://juejin.im/post/5d2895316fb9a07eaf2bbe58)
