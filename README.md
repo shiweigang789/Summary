@@ -8,6 +8,9 @@
 
 [GlideImageView(图片显示效果转换)](https://github.com/sunfusheng/GlideImageView)
 
+#### 文件存储
+
+[应用的文件夹](https://juejin.im/post/5d2c36f5e51d4556db694aa3)
 
 #### 线程相关
 
