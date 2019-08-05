@@ -1,5 +1,11 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
+#### 注解
+
+[Java中rtti的实现-->Type类介绍](https://www.jianshu.com/p/bd4e5c779063)
+
+[java-apt的实现之Element详解](https://www.jianshu.com/p/899063e8452e)
+
 #### Glide 
 
 [Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
