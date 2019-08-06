@@ -1,5 +1,9 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
+#### APK安装
+
+[Android UID的分配、查看及相关知识](https://www.jianshu.com/p/b33dd49f2ae6)
+
 #### 注解
 
 [Java中rtti的实现-->Type类介绍](https://www.jianshu.com/p/bd4e5c779063)
