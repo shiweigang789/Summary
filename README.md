@@ -1,5 +1,9 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
+#### 组件化
+
+[ARouter路由解析](https://www.cnblogs.com/yc211/p/10408181.html)
+
 #### APK安装
 
 [Android UID的分配、查看及相关知识](https://www.jianshu.com/p/b33dd49f2ae6)
