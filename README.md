@@ -4,6 +4,8 @@
 
 [Android UID的分配、查看及相关知识](https://www.jianshu.com/p/b33dd49f2ae6)
 
+[APK安装原理](https://www.jianshu.com/p/d2a550a953e0)
+
 #### 注解
 
 [Java中rtti的实现-->Type类介绍](https://www.jianshu.com/p/bd4e5c779063)
