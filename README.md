@@ -3,6 +3,7 @@
 #### 组件化
 
 [ARouter路由解析](https://www.cnblogs.com/yc211/p/10408181.html)
+[组件化思路](https://github.com/yangchong211/YCBlogs/tree/master/android/%E7%BB%84%E4%BB%B6%E5%8C%96)
 
 #### APK安装
 
