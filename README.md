@@ -1,9 +1,5 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
-#### OkHttp
-
-[OkHttp源码分析请求流程](https://juejin.im/post/5d450c3e6fb9a06af92b863e)
-
 #### 组件化
 
 [ARouter路由解析](https://www.cnblogs.com/yc211/p/10408181.html)
@@ -20,14 +16,6 @@
 [Java中rtti的实现-->Type类介绍](https://www.jianshu.com/p/bd4e5c779063)
 
 [java-apt的实现之Element详解](https://www.jianshu.com/p/899063e8452e)
-
-#### Glide 
-
-[Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
-
-[glide-transformations(图片显示效果转换)](https://github.com/wasabeef/glide-transformations)
-
-[GlideImageView(图片显示效果转换)](https://github.com/sunfusheng/GlideImageView)
 
 #### 文件存储
 
@@ -100,11 +88,27 @@
 
 [View 的可见性检查](https://www.jianshu.com/p/30b0ae304518)
 
+#### http
+
+[http协议缓存机制](https://juejin.im/entry/5993dabd518825244630ea2a)
+
+#### OkHttp
+
+[OkHttp源码分析请求流程](https://juejin.im/post/5d450c3e6fb9a06af92b863e)
+
 #### Retrofit 2.0
 
 [详细的Retrofit 2.0 源码分析指南](https://juejin.im/post/5a9f36acf265da23a1416cb6#heading-32)
 
 [从架构角度看Retrofit的作用、原理和启示](https://www.jianshu.com/p/f57b7cdb1c99)
+
+#### Glide 
+
+[Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
+
+[glide-transformations(图片显示效果转换)](https://github.com/wasabeef/glide-transformations)
+
+[GlideImageView(图片显示效果转换)](https://github.com/sunfusheng/GlideImageView)
 
 #### 国际化
 
