@@ -102,6 +102,8 @@
 
 [从架构角度看Retrofit的作用、原理和启示](https://www.jianshu.com/p/f57b7cdb1c99)
 
+[DSL形式的基于retorfit、协程的网络请求封装](https://juejin.im/post/5d48e757f265da03bf0f29a3)
+
 #### Glide 
 
 [Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
