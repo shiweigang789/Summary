@@ -146,6 +146,8 @@
 
 [Matisse(图片选择和剪切)](https://github.com/li-xiaojun/Matisse)
 
+[Box(应用信息，应用管理，FloatWindow悬浮窗，XmlParser等功能)](https://github.com/lulululbj/Box)
+
 #### 代码检查 Lint
 
 [AS自定义Lint](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
