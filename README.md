@@ -104,6 +104,8 @@
 
 [DSL形式的基于retorfit、协程的网络请求封装](https://juejin.im/post/5d48e757f265da03bf0f29a3)
 
+[像使用gradle一样，在kotlin中进行网络请求](https://juejin.im/post/5d4d17e5f265da039401f6ea)
+
 #### Glide 
 
 [Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
