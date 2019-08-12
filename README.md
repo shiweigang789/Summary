@@ -78,6 +78,8 @@
 
 [Kotlin进阶：动画代码太丑，用DSL动画库拯救，像说话一样写代码哟！](https://juejin.im/post/5d2895316fb9a07eaf2bbe58)
 
+[Kotlin知识归纳](https://juejin.im/post/5d315cde6fb9a07ee566574d)
+
 #### Activity
 
 [浅谈 onAttachedToWindow 和 onDetachedFromWindow](https://juejin.im/post/5d14c9b4e51d45777a1261d1)
