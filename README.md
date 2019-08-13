@@ -82,6 +82,8 @@
 
 [Kotlin中inline, noinline, crossinline的区别](https://juejin.im/entry/5c05f418f265da6135725859)
 
+[优化使用kotlin开发Android app的编译速度](https://juejin.im/post/5cd133af6fb9a0323a01ca84)
+
 #### Activity
 
 [浅谈 onAttachedToWindow 和 onDetachedFromWindow](https://juejin.im/post/5d14c9b4e51d45777a1261d1)
