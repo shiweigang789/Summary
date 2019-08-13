@@ -82,6 +82,8 @@
 
 [Kotlin中inline, noinline, crossinline的区别](https://juejin.im/entry/5c05f418f265da6135725859)
 
+[kotlin中lambda的实现和内联函数](https://juejin.im/post/5d4f899df265da03f04cbe1c)
+
 [优化使用kotlin开发Android app的编译速度](https://juejin.im/post/5cd133af6fb9a0323a01ca84)
 
 [kotlin Standard中的内联函数](https://juejin.im/post/5d4dbf2b6fb9a06ad347195b)
