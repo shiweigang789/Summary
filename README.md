@@ -32,6 +32,8 @@
 
 [LeakCanary使用](https://www.jianshu.com/p/70b8c87ea877)
 
+[MAT分析内存泄漏](https://www.jianshu.com/p/97251691af88)
+
 #### 
 
 #### Flutter
