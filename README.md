@@ -3,6 +3,7 @@
 #### 组件化
 
 [ARouter路由解析](https://www.cnblogs.com/yc211/p/10408181.html)
+
 [组件化思路](https://github.com/yangchong211/YCBlogs/tree/master/android/%E7%BB%84%E4%BB%B6%E5%8C%96)
 
 #### APK安装
@@ -28,6 +29,10 @@
 #### 性能优化
 
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
+
+[LeakCanary使用](https://www.jianshu.com/p/70b8c87ea877)
+
+#### 
 
 #### Flutter
 
