@@ -86,6 +86,8 @@
 
 [kotlin Standard中的内联函数](https://juejin.im/post/5d4dbf2b6fb9a06ad347195b)
 
+[Kotlin中集合的函数式API和惰性集合操作“序列”](https://juejin.im/post/5d5190736fb9a06ae94d2538)
+
 #### Activity
 
 [浅谈 onAttachedToWindow 和 onDetachedFromWindow](https://juejin.im/post/5d14c9b4e51d45777a1261d1)
