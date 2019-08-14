@@ -179,6 +179,8 @@
 
 [PhotoView (图片缩放)](https://github.com/chrisbanes/PhotoView)
 
+[PhotoView 源码解读](https://blog.csdn.net/maplejaw_/article/details/51773316)
+
 #### 代码检查 Lint
 
 [AS自定义Lint](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
