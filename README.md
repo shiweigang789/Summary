@@ -81,6 +81,8 @@
 
 [译】Kotlin coroutines meeting Android(协程)](https://juejin.im/post/5d3128ebe51d4510624f9885)
 
+[kotlin coroutines 协程教程(一) 介绍及关键API分析](https://www.jianshu.com/p/c531eefef4c6)
+
 [Kotlin实战：用实战代码更深入地理解预定义扩展函数](https://juejin.im/post/5d061caef265da1b8f1ac00a)
 
 [Kotlin进阶：动画代码太丑，用DSL动画库拯救，像说话一样写代码哟！](https://juejin.im/post/5d2895316fb9a07eaf2bbe58)
