@@ -97,6 +97,8 @@
 
 [Kotlin中集合的函数式API和惰性集合操作“序列”](https://juejin.im/post/5d5190736fb9a06ae94d2538)
 
+[kotlin入门总结](https://www.jianshu.com/p/dcf6cd7c59a3)
+
 #### Activity
 
 [浅谈 onAttachedToWindow 和 onDetachedFromWindow](https://juejin.im/post/5d14c9b4e51d45777a1261d1)
