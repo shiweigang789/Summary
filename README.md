@@ -32,6 +32,8 @@
 
 [LeakCanary使用](https://www.jianshu.com/p/70b8c87ea877)
 
+[LeakCanary源码分析](https://juejin.im/post/58eaf3a1ac502e006c438db0)
+
 [MAT分析内存泄漏](https://www.jianshu.com/p/97251691af88)
 
 #### 
