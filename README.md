@@ -36,6 +36,8 @@
 
 [MAT分析内存泄漏](https://www.jianshu.com/p/97251691af88)
 
+[Android严苛模式StrictMode使用详解](https://blog.csdn.net/mynameishuangshuai/article/details/51742375)
+
 #### 
 
 #### Flutter
