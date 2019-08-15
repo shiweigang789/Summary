@@ -26,6 +26,10 @@
 
 [图解 Java 线程安全](https://juejin.im/post/5d2c97bff265da1bc552954b)
 
+#### JVM
+
+[JVM垃圾回收过程](https://juejin.im/post/5d25aa94f265da1b8f1aea57)
+
 #### 性能优化
 
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
