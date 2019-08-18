@@ -193,6 +193,10 @@
 
 [AS自定义Lint](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
 
+#### 集合相关
+
+[HashMap 源码分析](https://juejin.im/post/5cfcdb4de51d45777540fd7f)
+
 #### 小技术点
 
 [Android TextView使用HTML处理字体样式、显示图片等](https://blog.csdn.net/johnsonblog/article/details/7741972)
