@@ -195,6 +195,8 @@
 
 #### 集合相关
 
+[ArrayList 源码分析](https://juejin.im/post/5cf8d228518825399965a727)
+
 [HashMap 源码分析](https://juejin.im/post/5cfcdb4de51d45777540fd7f)
 
 #### 小技术点
