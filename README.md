@@ -195,6 +195,8 @@
 
 #### 集合相关
 
+[java—深拷贝和浅拷贝的分析](https://www.jianshu.com/p/a3358ba8ac6a)
+
 [ArrayList 源码分析](https://juejin.im/post/5cf8d228518825399965a727)
 
 [HashMap 源码分析](https://juejin.im/post/5cfcdb4de51d45777540fd7f)
