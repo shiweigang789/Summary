@@ -205,6 +205,8 @@
 
 [LinkedHashMap 源码分析](https://juejin.im/post/5d02681af265da1bbf691890)
 
+[LruCache 的分析](https://juejin.im/post/5d04ae00f265da1b8a4f1aed)
+
 #### 小技术点
 
 [Android TextView使用HTML处理字体样式、显示图片等](https://blog.csdn.net/johnsonblog/article/details/7741972)
