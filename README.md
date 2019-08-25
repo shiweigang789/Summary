@@ -167,6 +167,36 @@
 
 [Rxjava2源码分析(三)](https://www.jianshu.com/p/61f1b9ace4c9)
 
+#### 代码检查 Lint
+
+[AS自定义Lint](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
+
+#### 集合相关
+
+[java—深拷贝和浅拷贝的分析](https://www.jianshu.com/p/a3358ba8ac6a)
+
+[ArrayList 源码分析](https://juejin.im/post/5cf8d228518825399965a727)
+
+[LinkedList 源码分析](https://juejin.im/post/5cfa1ad0f265da1bc8541a91)
+
+[HashMap 源码分析](https://juejin.im/post/5cfcdb4de51d45777540fd7f)
+
+[LinkedHashMap 源码分析](https://juejin.im/post/5d02681af265da1bbf691890)
+
+[LruCache 的分析](https://juejin.im/post/5d04ae00f265da1b8a4f1aed)
+
+[ThreadLocal 源码解析](https://juejin.im/post/5d2c2cc45188253f964d43dc)
+
+#### 小技术点
+
+[Android TextView使用HTML处理字体样式、显示图片等](https://blog.csdn.net/johnsonblog/article/details/7741972)
+
+[Android Matrix](https://www.cnblogs.com/qiengo/archive/2012/06/30/2570874.html)
+
+[ColorMatrix矩阵详解](https://blog.csdn.net/c6E5UlI1N/article/details/82756313)
+
+[adb命令](https://juejin.im/post/5d57cfff51882505a87a8526)
+
 #### 第三方库
 
 [Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
@@ -189,30 +219,3 @@
 
 [PhotoView 源码解读](https://blog.csdn.net/maplejaw_/article/details/51773316)
 
-#### 代码检查 Lint
-
-[AS自定义Lint](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
-
-#### 集合相关
-
-[java—深拷贝和浅拷贝的分析](https://www.jianshu.com/p/a3358ba8ac6a)
-
-[ArrayList 源码分析](https://juejin.im/post/5cf8d228518825399965a727)
-
-[LinkedList 源码分析](https://juejin.im/post/5cfa1ad0f265da1bc8541a91)
-
-[HashMap 源码分析](https://juejin.im/post/5cfcdb4de51d45777540fd7f)
-
-[LinkedHashMap 源码分析](https://juejin.im/post/5d02681af265da1bbf691890)
-
-[LruCache 的分析](https://juejin.im/post/5d04ae00f265da1b8a4f1aed)
-
-#### 小技术点
-
-[Android TextView使用HTML处理字体样式、显示图片等](https://blog.csdn.net/johnsonblog/article/details/7741972)
-
-[Android Matrix](https://www.cnblogs.com/qiengo/archive/2012/06/30/2570874.html)
-
-[ColorMatrix矩阵详解](https://blog.csdn.net/c6E5UlI1N/article/details/82756313)
-
-[adb命令](https://juejin.im/post/5d57cfff51882505a87a8526)
