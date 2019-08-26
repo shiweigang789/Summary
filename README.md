@@ -60,6 +60,8 @@
 
 [Android App 冷启动优化方案](https://juejin.im/post/5aec28bb6fb9a07ac90d13dc)
 
+[Android 内存优化方法](https://juejin.im/post/5d3ada056fb9a07eb94fd1bc)
+
 #### 
 
 #### Flutter
