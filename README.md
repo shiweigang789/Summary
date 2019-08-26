@@ -48,6 +48,8 @@
 
 [Android严苛模式StrictMode使用详解](https://blog.csdn.net/mynameishuangshuai/article/details/51742375)
 
+[Android 启动优化方法](https://juejin.im/post/5d5aa36af265da03963b9913)
+
 #### 
 
 #### Flutter
