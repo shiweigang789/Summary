@@ -32,6 +32,8 @@
 
 [Java线程池解析](https://juejin.im/post/5d1882b1f265da1ba84aa676)
 
+[Synchronized解析](https://juejin.im/post/5d5374076fb9a06ac76da894)
+
 #### JVM
 
 [JVM垃圾回收过程](https://juejin.im/post/5d25aa94f265da1b8f1aea57)
