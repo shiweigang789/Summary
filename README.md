@@ -50,6 +50,8 @@
 
 [Android 启动优化方法](https://juejin.im/post/5d5aa36af265da03963b9913)
 
+[Android App 冷启动优化方案](https://juejin.im/post/5aec28bb6fb9a07ac90d13dc)
+
 #### 
 
 #### Flutter
