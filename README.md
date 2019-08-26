@@ -40,6 +40,8 @@
 
 [代码编译运行过程](https://juejin.im/post/5d4bdb23e51d453c2577b747)
 
+[JVM常见面试题解析](https://juejin.im/post/5d35ca5b518825449c64bc31)
+
 #### 性能优化
 
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
