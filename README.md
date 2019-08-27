@@ -175,6 +175,8 @@
 
 [Glide 源码分析(一)：图片压缩](https://juejin.im/post/5bfe2c536fb9a04a027a0d45)
 
+[Glide4.8源码拆解（五）BitmapPool](https://juejin.im/post/5c3c95a651882524fe52b5fa)
+
 #### 国际化
 
 [Android 中东阿拉伯语适配，看这一篇够了](https://www.jianshu.com/p/d8cd294a5c31)
