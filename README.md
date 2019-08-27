@@ -171,6 +171,8 @@
 
 [Glide 这样用，更省内存](https://juejin.im/post/59cf0f9e6fb9a00a4b0c73d4)
 
+[Glide4.x源码分析(2)](https://juejin.im/post/5d028d655188253d592e0657)
+
 #### 国际化
 
 [Android 中东阿拉伯语适配，看这一篇够了](https://www.jianshu.com/p/d8cd294a5c31)
