@@ -44,6 +44,8 @@
 
 [JVM常见面试题解析](https://juejin.im/post/5d35ca5b518825449c64bc31)
 
+[探索 Java 内存管理机制](https://juejin.im/post/5d3a870df265da1b855c9d41)
+
 #### 性能优化
 
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
