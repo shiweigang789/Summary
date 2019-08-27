@@ -167,6 +167,8 @@
 
 [GlideImageView(图片显示效果转换)](https://github.com/sunfusheng/GlideImageView)
 
+[Glide 这样用，更省内存](https://juejin.im/post/59cf0f9e6fb9a00a4b0c73d4)
+
 #### 国际化
 
 [Android 中东阿拉伯语适配，看这一篇够了](https://www.jianshu.com/p/d8cd294a5c31)
