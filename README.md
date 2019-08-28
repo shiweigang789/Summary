@@ -22,6 +22,10 @@
 
 [应用的文件夹](https://juejin.im/post/5d2c36f5e51d4556db694aa3)
 
+#### GreenDao
+
+[GreenDao 兼容升级，保留旧数据的---全方面解决方案](https://juejin.im/post/5a7e5e886fb9a06363240db2)
+
 #### 算法相关
 
 [排序算法](https://github.com/dunwu/algorithm-tutorial)
