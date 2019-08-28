@@ -26,6 +26,8 @@
 
 [GreenDao 兼容升级，保留旧数据的---全方面解决方案](https://juejin.im/post/5a7e5e886fb9a06363240db2)
 
+[Android ORM 框架：GreenDao 使用详解](https://juejin.im/post/595a12ba6fb9a06b9a5175bd)
+
 #### 算法相关
 
 [排序算法](https://github.com/dunwu/algorithm-tutorial)
