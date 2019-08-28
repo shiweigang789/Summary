@@ -237,6 +237,8 @@
 
 [adb命令](https://juejin.im/post/5d57cfff51882505a87a8526)
 
+[IntentService](https://juejin.im/post/5d6094d451882543e84f4158)
+
 #### 第三方库
 
 [Android开源库分类整理，开发拿来即用](https://www.jianshu.com/p/06ce7bfab946)
