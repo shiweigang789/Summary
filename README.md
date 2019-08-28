@@ -145,6 +145,8 @@
 
 [http协议缓存机制](https://juejin.im/entry/5993dabd518825244630ea2a)
 
+[HTTP协议理解及服务端与客户端的设计实现](https://yanzhenjie.blog.csdn.net/article/details/93098495)
+
 #### OkHttp
 
 [OkHttp源码分析请求流程](https://juejin.im/post/5d450c3e6fb9a06af92b863e)
