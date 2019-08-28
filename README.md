@@ -28,6 +28,8 @@
 
 [Android ORM 框架：GreenDao 使用详解](https://juejin.im/post/595a12ba6fb9a06b9a5175bd)
 
+[greenDAO 插入百万数据的改进](https://juejin.im/entry/58e5a83f2f301e00622be9ec)
+
 #### 算法相关
 
 [排序算法](https://github.com/dunwu/algorithm-tutorial)
