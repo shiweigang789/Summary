@@ -72,6 +72,8 @@
 
 [Android 内存优化方法](https://juejin.im/post/5d3ada056fb9a07eb94fd1bc)
 
+[android高级进阶之12条代码优化以及性能优化方案](https://juejin.im/post/5d57d5fef265da03ef7a10c3)
+
 #### 
 
 #### Flutter
