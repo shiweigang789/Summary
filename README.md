@@ -151,6 +151,8 @@
 
 [View 的可见性检查](https://www.jianshu.com/p/30b0ae304518)
 
+[Android LayoutInflater机制的设计与实现](https://juejin.im/post/5d5a62c0e51d4561ba48fde0)
+
 #### http
 
 [http协议缓存机制](https://juejin.im/entry/5993dabd518825244630ea2a)
