@@ -84,6 +84,8 @@
 
 [Flutter-Notebook(学习资料)](https://github.com/OpenFlutter/Flutter-Notebook)
 
+[认识Widget](https://juejin.im/post/5d22752c6fb9a07f04206a18)
+
 #### Drawable
 
 [Android中的各种Drawable类详解](https://www.jianshu.com/p/578125001dc2)
