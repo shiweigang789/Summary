@@ -80,6 +80,8 @@
 
 [Dart面向对象](https://juejin.im/post/5d1ef5b66fb9a07ed7409d1e)
 
+[Dart语法-包访问-泛型--异常-异步-mixin](https://juejin.im/post/5d20090e5188251a966be7ca)
+
 [Flutter-Notebook(学习资料)](https://github.com/OpenFlutter/Flutter-Notebook)
 
 #### Drawable
