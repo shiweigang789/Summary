@@ -32,8 +32,6 @@
 
 #### 算法相关
 
-[排序算法](https://github.com/dunwu/algorithm-tutorial)
-
 #### 线程相关
 
 [图解 Java 线程安全](https://juejin.im/post/5d2c97bff265da1bc552954b)
