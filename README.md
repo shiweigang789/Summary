@@ -267,3 +267,5 @@
 
 [PhotoView 源码解读](https://blog.csdn.net/maplejaw_/article/details/51773316)
 
+[Android-Universal-ViewPager-Indicator(轮播图指示器)](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
+
