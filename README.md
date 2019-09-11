@@ -269,3 +269,5 @@
 
 [Android-Universal-ViewPager-Indicator(轮播图指示器)](https://github.com/wenzhihao123/Android-Universal-ViewPager-Indicator)
 
+[AndroidViewAnimations(各种简单动画效果)](https://github.com/daimajia/AndroidViewAnimations)
+
