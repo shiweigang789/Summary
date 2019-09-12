@@ -274,3 +274,5 @@
 [WeChatBottomNavigation(微信底部导航动画)](https://github.com/buxiliulian/WeChatBottomNavigation)
 
 [ProgressManager(Okhttp,Retrofit,Glide下载上传进度监听)](https://github.com/JessYanCoding/ProgressManager)
+
+[AndroidUtilCode(工具类库)](https://github.com/Blankj/AndroidUtilCode)
