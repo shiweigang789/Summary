@@ -272,3 +272,5 @@
 [AndroidViewAnimations(各种简单动画效果)](https://github.com/daimajia/AndroidViewAnimations)
 
 [WeChatBottomNavigation(微信底部导航动画)](https://github.com/buxiliulian/WeChatBottomNavigation)
+
+[ProgressManager(Okhttp,Retrofit,Glide下载上传进度监听)](https://github.com/JessYanCoding/ProgressManager)
