@@ -177,6 +177,8 @@
 
 [像使用gradle一样，在kotlin中进行网络请求](https://juejin.im/post/5d4d17e5f265da039401f6ea)
 
+retrofit-helper(多域名，下载进度，数据转换等)](https://github.com/xchengDroid/retrofit-helper)
+
 #### Glide 
 
 [Glide使用系列文章](https://mrfu.me/2016/02/27/Glide_Getting_Started/)
