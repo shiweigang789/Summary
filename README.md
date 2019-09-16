@@ -276,3 +276,5 @@
 [ProgressManager(Okhttp,Retrofit,Glide下载上传进度监听)](https://github.com/JessYanCoding/ProgressManager)
 
 [AndroidUtilCode(工具类库)](https://github.com/Blankj/AndroidUtilCode)
+
+[SuperTextView(工鞥强大的TextView,加载gif,设置样式、背景)](https://github.com/chenBingX/SuperTextView)
