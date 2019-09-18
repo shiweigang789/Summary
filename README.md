@@ -1,5 +1,9 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
+#### DataBinding
+
+[Android DataBinding 从入门到进阶](https://juejin.im/post/5b02cf8c6fb9a07aa632146d)
+
 #### 组件化
 
 [ARouter路由解析](https://www.cnblogs.com/yc211/p/10408181.html)
