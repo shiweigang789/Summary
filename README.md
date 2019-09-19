@@ -100,6 +100,8 @@
 
 [Android 这些 Drawable 你都会用吗？Part2](https://juejin.im/post/5d18e98df265da1b827ab200)
 
+[Android 点九图机制讲解及在聊天气泡中的应用](https://juejin.im/post/5d822fbf518825171501549f)
+
 #### RecyclerView
 
 [RecyclerView.ItemDecoration的详解使用](https://www.jianshu.com/p/41ae13016243)
