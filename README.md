@@ -62,6 +62,8 @@
 
 #### 性能优化
 
+[App启动时间统计优化](https://juejin.im/post/5d848ac56fb9a06ae17db217)
+
 [性能优化(三)看完这篇文章,至少解决 APP 中 90 % 的内存异常问题](https://juejin.im/post/5cd82a3ee51d456e781f20ce)
 
 [LeakCanary使用](https://www.jianshu.com/p/70b8c87ea877)
