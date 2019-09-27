@@ -267,3 +267,5 @@ retrofit-helper(多域名，下载进度，数据转换等)](https://github.com/
 
 [AndroidManifest.xml —— application(相关属性)](https://juejin.im/post/5d7e1e4af265da03b9502409)
 
+[BitmapShader 实战 实现圆形、圆角图片](https://blog.csdn.net/lmj623565791/article/details/41967509)
+
