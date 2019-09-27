@@ -269,3 +269,5 @@ retrofit-helper(多域名，下载进度，数据转换等)](https://github.com/
 
 [BitmapShader 实战 实现圆形、圆角图片](https://blog.csdn.net/lmj623565791/article/details/41967509)
 
+[正 N 边形圆角头像的实现](https://juejin.im/post/5d726e6ee51d4561de20b657)
+
