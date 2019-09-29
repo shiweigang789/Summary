@@ -6,6 +6,8 @@
 
 [精通比特币](https://book.8btc.com/books/1/master_bitcoin/_book/)
 
+[token-core-android](https://github.com/consenlabs/token-core-android)
+
 #### DataBinding
 
 [Android DataBinding 从入门到进阶](https://juejin.im/post/5b02cf8c6fb9a07aa632146d)
