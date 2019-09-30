@@ -2,6 +2,8 @@
 
 #### 区块链
 
+[HD钱包知识点指南 ](https://docs.qq.com/doc/DYUpaUXFoTXVZa3Bk)
+
 [区块链钱包开发](https://juejin.im/post/5bd47456f265da0ae5055aac?tdsourcetag=s_pcqq_aiomsg)
 
 [精通比特币](https://book.8btc.com/books/1/master_bitcoin/_book/)
