@@ -275,3 +275,5 @@ retrofit-helper(多域名，下载进度，数据转换等)](https://github.com/
 
 [正 N 边形圆角头像的实现](https://juejin.im/post/5d726e6ee51d4561de20b657)
 
+[Android Tools 属性](https://juejin.im/post/5d500b1a6fb9a06b1417d5c9)
+
