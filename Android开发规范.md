@@ -159,7 +159,7 @@
 - 读写文件的数据流及时关闭
 - 打开的数据库在不使用时及时关闭
 
-#### 持续更新...
+#### 根据项目要求持续更新...
 
 参考资料[Android开发规范](https://github.com/shiweigang789/Summary/blob/master/Android%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.pdf)
 
