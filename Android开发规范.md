@@ -160,6 +160,15 @@
        break;
      }
   ```
+  
+- 网络Api接口的方法名和Request请求种的方法名保持一致
+   ```
+   Api中
+   @POST("app/check_update")
+   fun checkUpdate(@Body requestBody: RequestBody): Observable<ApiResponse<UpdateInfo>>
+   Request中
+   fun checkUpdate(result: Response.Result<UpdateInfo>) {}
+   ```
 
 ## 2.2 注释规范
 
