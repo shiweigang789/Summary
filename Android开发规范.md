@@ -13,9 +13,21 @@
 ## 1.2  变量名
 
 - 变量名：静态常量使用大写字母，使用下划线“_”分词。
+  ```
+  public static String A_ROUTER_GUIDE_ACTIVITY = ""
+  ```
 - 非静态成员变量、局部变量、首字母小写，驼峰式分词。
+  ```
+  private int scrollDistance
+  ```
 - Activity、Fragment、Adapter、View 的子类的成员变量：驼峰式分词。
+  ```
+  public class NewWalletHomeFragmentVm extends BaseFragmentRvVM{}
+  ```
 - 方法名：首字母小写，驼峰式分词。
+  ```
+  public void setCurrentClickNewWalletHomePageTokenListVm(){}
+  ```
 
 ## 1.3 资源文件命名
 
@@ -101,7 +113,19 @@
 - 一个方法的参数列表不要超过：7个。
 - if 嵌套层次：不要超过4层。（多用return）
 - 不能保证一个对象不为空的情况下，一定要做判空处理
+  ```
+  if(user != null){}
+  if(user == null) return;
+  ```
 - 捕获的异常要做相应的处理或者打印日志
+  ```
+  try {
+        getObjectMapper().writeValueAsString(identityKeystore)
+    } catch (e: JsonProcessingException) {
+        e.printStackTrace()
+        Logutils.eTag(TAG,e.message)
+        return false
+    }
 - 比较字符是否相同时使用 示例：
 
   ```
@@ -140,11 +164,42 @@
 ## 2.2 注释规范
 
 - 新建的类，添加类信息 （创建人，日期，类作用的）
+  ```
+  /**
+    *  作者    Owen
+    *  时间    2019/9/23 14:16
+    *  文件    HiWallet-andorid
+    *  描述    创建Identity的帮助类
+    */
+  ```
+
 - 数据实体类 标明每个属性的作用，可能的一些数值和数值代表的意义
+  ```
+  @Parcelize
+  data class UpdateInfo(
+          val description: String,  //最新版本描述
+          val downloadUrl: String,  // 下载链接
+          val hasUpdate: String,    // 是否有新版本（0、无；1、有)
+          val isForcedUpdates: Int, // 是否强制更新
+          val version: String       // 最新版本
+  ) : Parcelable
+  ```
 - 函数方法注释要说明方法的作用，参数要说明意义及可能的值代表的意义
+  ```
+  /**
+   * Base64对json数据进行加密
+   * @param jsonByteArray json数据的字节数组
+   */
+  private fun encodeBase64(jsonByteArray: ByteArray): String {
+      val bodyStr = String(Base64.encodeBase64(jsonByteArray))
+      LogUtils.dTag(TAG, "bodyStr >>> $bodyStr")
+      return bodyStr
+  }
+  ```
 
 ## 2.3 日志规范
     
+- 需要了解数据变化的地方，一定要添加日志信息
 - 网络日志TAG = "NET_当前类名"
 - 钱包相关TAG = "WALLET_当前类名"
 - 其他日志TGA = "当前类名"
