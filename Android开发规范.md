@@ -161,7 +161,7 @@
      }
   ```
   
-- 网络Api接口的方法名和Request请求种的方法名保持一致
+- 网络Api接口的方法名和Request请求中的方法名保持一致
    ```
    Api中
    @POST("app/check_update")
