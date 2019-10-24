@@ -46,7 +46,9 @@
 
 [greenDAO 插入百万数据的改进](https://juejin.im/entry/58e5a83f2f301e00622be9ec)
 
-[Android-Debug-Database(数据库查看)]（https://github.com/amitshekhariitbhu/Android-Debug-Database）
+[Android-Debug-Database(数据库查看)](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+
+[GreenDao 使用全面讲解](https://juejin.im/post/5dadcbc95188257579610b5e)
 
 #### 算法相关
 
