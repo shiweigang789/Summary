@@ -287,5 +287,7 @@
 
 [Android Studio有什么奇技淫巧](https://www.zhihu.com/question/27482725?sort=created)
 
+[Android为什么会Crash](https://www.jianshu.com/p/83b96506a449)
+
 
 
