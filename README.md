@@ -289,5 +289,6 @@
 
 [Android为什么会Crash](https://www.jianshu.com/p/83b96506a449)
 
+[RecyclerView顶部阴影透明度渐变效果](https://www.jianshu.com/p/752c4913b274)
 
 
