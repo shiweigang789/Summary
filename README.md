@@ -2,6 +2,8 @@
 
 #### 区块链
 
+[NetworkParameters说明](http://gavinzhang.work/blockchain/%E6%AF%94%E7%89%B9%E5%B8%81/Bitcoinj%E4%B8%AD%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87NetworkParameters.html)
+
 [HD钱包知识点指南 ](https://docs.qq.com/doc/DYUpaUXFoTXVZa3Bk)
 
 [区块链钱包开发](https://juejin.im/post/5bd47456f265da0ae5055aac?tdsourcetag=s_pcqq_aiomsg)
