@@ -2,6 +2,8 @@
 
 #### 区块链
 
+[UTXO的定义（交易，输入输出）-1](https://blog.csdn.net/liudaoqiang_tj/article/details/81545002)
+
 [区块链学习](http://gavinzhang.work/categories/)
 
 [NetworkParameters说明](http://gavinzhang.work/blockchain/%E6%AF%94%E7%89%B9%E5%B8%81/Bitcoinj%E4%B8%AD%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87NetworkParameters.html)
