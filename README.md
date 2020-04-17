@@ -18,6 +18,8 @@
 
 [token-core-android](https://github.com/consenlabs/token-core-android)
 
+[开源钱包](https://github.com/horizontalsystems)
+
 #### Jetpack
 
 [Jetpack 之 LifeCycle 使用篇](https://juejin.im/post/5df64c19518825121d6e2013)
