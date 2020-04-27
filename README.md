@@ -305,4 +305,6 @@
 
 [RecyclerView顶部阴影透明度渐变效果](https://www.jianshu.com/p/752c4913b274)
 
+[ProgressBar使用详解](https://www.jianshu.com/p/f613571addb5)
+
 
