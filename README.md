@@ -307,4 +307,30 @@
 
 [ProgressBar使用详解](https://www.jianshu.com/p/f613571addb5)
 
+[图片背景消除](https://www.remove.bg/zh)
+
+[在线替换图片背景](https://www.gaoding.com/koutu)
+
+[AI人工智能图片放大](https://bigjpg.com/)
+
+[在线ps](https://www.photopea.com/)
+
+[设计工具](https://www.chuangkit.com/)
+
+[百度脑图](http://naotu.baidu.com)
+
+[ppt模板](http://www.ypppt.com/)
+
+[视频下载](http://www.shipinyu.com/)
+
+[免费在线文件转换器](https://cn.office-converter.com/)
+
+[云端超级应用空间](https://uzer.me/)
+
+
+
+
+
+
+
 
