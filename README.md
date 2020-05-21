@@ -134,6 +134,8 @@
 
 [Android 点九图机制讲解及在聊天气泡中的应用](https://juejin.im/post/5d822fbf518825171501549f)
 
+[Android Bitmap 详解](https://www.jianshu.com/p/eef3daeeecbc)
+
 #### RecyclerView
 
 [RecyclerView.ItemDecoration的详解使用](https://www.jianshu.com/p/41ae13016243)
