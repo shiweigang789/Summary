@@ -309,6 +309,10 @@
 
 [ProgressBar使用详解](https://www.jianshu.com/p/f613571addb5)
 
+[Android开发：如何动态更换APP图标](https://www.jianshu.com/p/707e3e347361)
+
+#### 实用工具
+
 [图片背景消除](https://www.remove.bg/zh)
 
 [在线替换图片背景](https://www.gaoding.com/koutu)
