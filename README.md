@@ -311,6 +311,8 @@
 
 [Android开发：如何动态更换APP图标](https://www.jianshu.com/p/707e3e347361)
 
+[Android主题色无缝切换方案:Databinding下实现控件皮肤无缝切换](https://www.jianshu.com/p/9e0c4b0af0dc)
+
 #### 实用工具
 
 [图片背景消除](https://www.remove.bg/zh)
