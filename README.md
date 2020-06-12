@@ -18,7 +18,7 @@
 
 [token-core-android](https://github.com/consenlabs/token-core-android)
 
-[开源钱包](https://github.com/horizontalsystems)
+[unstoppable-wallet-android开源钱包](https://github.com/horizontalsystems)
 
 #### Jetpack
 
