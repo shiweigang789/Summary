@@ -24,6 +24,8 @@
 
 [Jetpack 之 LifeCycle 使用篇](https://juejin.im/post/5df64c19518825121d6e2013)
 
+[ProcessLifecycle-Demo(应用前后台切换监听)](https://github.com/Flywith24/ProcessLifecycle-Demo)
+
 #### DataBinding
 
 [Android DataBinding 从入门到进阶](https://juejin.im/post/5b02cf8c6fb9a07aa632146d)
