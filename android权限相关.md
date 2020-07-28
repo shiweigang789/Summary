@@ -1,3 +1,15 @@
+[为什么说在Android中请求权限从来都不是一件简单的事情？](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650251007&idx=1&sn=f8961f1f2d778190ae42b71d3a43685b&chksm=88636f90bf14e686317c725c55ea860a71296593890bf8a162d1e2b7305233db7ff285f03cd1&mpshare=1&scene=23&srcid=0728Au7k5rdUSxWIpnTXj43g&sharer_sharetime=1595897198747&sharer_shareid=90faf7dc0a3f3a045a59c3239c0185f4#rd)
+
+
+
+
+
+
+
+
+
+
+
 android.permission.EXPAND_STATUS_BAR允许一个程序扩展收缩在状态栏,android开发网提示应该是一个类似Windows Mobile中的托盘程序
 
 android.permission.FACTORY_TEST作为一个工厂测试程序，运行在root用户
