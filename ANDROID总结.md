@@ -29,3 +29,5 @@
 [Android 常用 adb 命令总结](https://www.cnblogs.com/bravesnail/articles/5850335.html)
 
 [探究Android View 绘制流程，Xml 文件到 View 对象的转换过程](https://www.jianshu.com/p/eccd8ba87e8b)
+
+[更灵活的单例、监听 GC、打印方法耗时](https://mp.weixin.qq.com/s?__biz=MzIwMTAzMTMxMg==&mid=2649497253&idx=2&sn=250b80fdab1e135c7ab5720a30222c04&chksm=8eec955ab99b1c4c5f3a2c2031c34aa61635140efe015c0135efa4cd43bd1a7327da6a0308a5&mpshare=1&scene=23&srcid=0728pumafdUtK5q194LoBQ6n&sharer_sharetime=1595897183636&sharer_shareid=90faf7dc0a3f3a045a59c3239c0185f4#rd)
