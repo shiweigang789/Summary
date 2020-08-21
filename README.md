@@ -352,6 +352,8 @@
 
 [Junit单元测试教程](https://blog.csdn.net/weixin_44170221/article/details/106463482?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf)
 
+[mock调试](https://www.jianshu.com/p/9db47d4b7ac0)
+
 
 
 
