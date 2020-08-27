@@ -20,6 +20,8 @@
 
 [unstoppable-wallet-android开源钱包](https://github.com/horizontalsystems)
 
+[TrustWallet](https://github.com/TrustWallet)
+
 #### Jetpack
 
 [Jetpack 之 LifeCycle 使用篇](https://juejin.im/post/5df64c19518825121d6e2013)
