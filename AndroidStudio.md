@@ -10,3 +10,5 @@
 [idea 插件的使用](https://blog.csdn.net/sunny243788557/article/details/106011723)
 
 [在Intellij IDEA中使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
+
+[idea使用git进行项目管理](https://www.cnblogs.com/java-maowei/p/5950930.html)
