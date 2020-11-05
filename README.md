@@ -1,5 +1,9 @@
 # 以下所有文章内容基本收集于其他作者的文章，如若有侵权，请告知，立即删除
 
+#### 学习网站
+
+[jouypub博客资料](http://www.jouypub.com/)
+
 #### 区块链
 
 [UTXO的定义（交易，输入输出）-1](https://blog.csdn.net/liudaoqiang_tj/article/details/81545002)
