@@ -26,6 +26,8 @@
 
 [TrustWallet](https://github.com/TrustWallet)
 
+[Solidity 优化 - 控制 gas 成本](https://learnblockchain.cn/article/1639)
+
 #### Jetpack
 
 [Jetpack 之 LifeCycle 使用篇](https://juejin.im/post/5df64c19518825121d6e2013)
