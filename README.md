@@ -28,6 +28,10 @@
 
 [Solidity 优化 - 控制 gas 成本](https://learnblockchain.cn/article/1639)
 
+[优化 Solidity 中的百分数和比例运算](https://learnblockchain.cn/article/1388)
+
+[在 Solidity中使用值数组以降低 gas 消耗](https://learnblockchain.cn/article/1381)
+
 #### Jetpack
 
 [Jetpack 之 LifeCycle 使用篇](https://juejin.im/post/5df64c19518825121d6e2013)
