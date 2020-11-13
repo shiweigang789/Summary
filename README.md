@@ -253,6 +253,8 @@
 
 [Glide4.8源码拆解（五）BitmapPool](https://juejin.im/post/5c3c95a651882524fe52b5fa)
 
+[对着那Glide最新版本就是一顿暴讲 1（框架流程篇）](https://www.jianshu.com/p/48d9e4d5d75d)
+
 #### 国际化
 
 [Android 中东阿拉伯语适配，看这一篇够了](https://www.jianshu.com/p/d8cd294a5c31)
