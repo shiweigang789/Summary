@@ -29,3 +29,4 @@
 
 [探析View工作的原理，真的很简单？](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650246351&idx=1&sn=38d0c25ebd6e90541ecf0d3b532441ae&chksm=88637da0bf14f4b6c50127eb5a9f5f7851bab66c77d5d9be0496da6ceaeff7022b2a4c268e10&mpshare=1&scene=23&srcid=#rd)
 
+[View 这12问，你顶得住吗？](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650834174&idx=1&sn=e78e9d7727750de45b639cb13fe01172&chksm=80b75060b7c0d97625398a17df427539cc426c120ee08441fa9ea7b7a1404b3f048e39a70557&mpshare=1&scene=23&srcid=1117gngiAAwTcNZbCOtF4QXu&sharer_sharetime=1605576507191&sharer_shareid=90faf7dc0a3f3a045a59c3239c0185f4#rd)
