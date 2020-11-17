@@ -18,8 +18,6 @@
 
 [精通比特币](https://book.8btc.com/books/1/master_bitcoin/_book/)
 
-[omni-USDT钱包开发](https://blog.csdn.net/jiang_xinxing/article/details/88090866)
-
 [token-core-android](https://github.com/consenlabs/token-core-android)
 
 [unstoppable-wallet-android开源钱包](https://github.com/horizontalsystems)
