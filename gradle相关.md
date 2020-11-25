@@ -27,3 +27,6 @@
 [不一样的Gradle多渠道配置总结](https://juejin.im/post/5cdbf5e3e51d45473d10ff11)
 
 [Android build.gradle配置详解](https://www.jianshu.com/p/c11862136abf)
+
+[Android Gradle 多渠道打包](https://juejin.cn/post/6894117336065212423)
+
