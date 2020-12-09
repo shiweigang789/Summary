@@ -12,3 +12,5 @@
 [在Intellij IDEA中使用Debug](https://www.cnblogs.com/chiangchou/p/idea-debug.html)
 
 [idea使用git进行项目管理](https://www.cnblogs.com/java-maowei/p/5950930.html)
+
+[IDEA 分享，超实用技巧！](https://mp.weixin.qq.com/s?__biz=MzUyODg4Nzk2MQ==&mid=2247509066&idx=8&sn=229bcab310ac3922caf2ba9743b4ffde&chksm=fa6b9dbccd1c14aaf862bafbd191e36114b9ca9525a5c3a7976e9f0e569b324d9970eb0c367e&mpshare=1&scene=23&srcid=1209rIq9HnSIMrxICmY4JjbK&sharer_sharetime=1607480879893&sharer_shareid=90faf7dc0a3f3a045a59c3239c0185f4#rd)
