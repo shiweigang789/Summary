@@ -169,6 +169,8 @@
 
 [ConstraintLayout使用进阶](https://blog.csdn.net/magic0908/article/details/109181739)
 
+[MotionLayout让动画如此简单](https://blog.csdn.net/lcl130/article/details/109223541)
+
 #### Kotlin知识
 
 [Kotlin知识归纳（六） —— 类型系统](https://juejin.im/post/5cefa6d7f265da1bac3ffba4)
