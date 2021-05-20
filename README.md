@@ -4,6 +4,8 @@
 
 [jouypub博客资料](http://www.jouypub.com/)
 
+[Android工程化实践：组件化发布](https://juejin.cn/post/6963633839860088846)
+
 #### 区块链
 
 [UTXO的定义（交易，输入输出）-1](https://blog.csdn.net/liudaoqiang_tj/article/details/81545002)
