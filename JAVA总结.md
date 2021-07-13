@@ -23,6 +23,8 @@
 
 [Java四种引用---强、软、弱、虚的知识点总结](https://blog.csdn.net/l540675759/article/details/73733763)
 
+[动画图解核心内存区--堆](https://mp.weixin.qq.com/s/RqDsmezuQDvzutRAytkxfg)
+
 
 #### 数据结构与算法
 
