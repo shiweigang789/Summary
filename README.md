@@ -379,3 +379,8 @@
 [源码角度，分析OkHttp实现WebSocket | 握手/保活/数据处理...](https://mp.weixin.qq.com/s/oRwUhGELgSD9ih1fhucLpw)
 
 
+#### 音视频
+[用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器](https://www.jianshu.com/p/420f7b14d6f6)
+
+
+
