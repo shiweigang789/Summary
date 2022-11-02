@@ -1,0 +1,13 @@
+Macos :
+CMakeLists.txt
+cmake_minimum_required(VERSION 3.18.1)
+
+project(HELLO)
+
+include_directories( include )
+
+set(CMAKE_OSX_ARCHITECTURES "arm64")
+
+add_compile_options(-std=c++11 -Wall)
+
+add_executable(hello hello.cpp src/MySwap.cpp)
