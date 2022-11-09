@@ -30,3 +30,5 @@
 
 [Android Gradle 多渠道打包](https://juejin.cn/post/6894117336065212423)
 
+[Android 自定义Gradle插件的3种方式](https://www.jianshu.com/p/f902b51e242b)
+
