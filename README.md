@@ -387,4 +387,9 @@
 [用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器](https://www.jianshu.com/p/420f7b14d6f6)
 
 
+#### 资料查找
+
+[ADB 操作命令详解及用法大全](https://juejin.cn/post/6844903645289398280)
+
+
 
