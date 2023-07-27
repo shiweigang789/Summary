@@ -391,5 +391,7 @@
 
 [ADB 操作命令详解及用法大全](https://juejin.cn/post/6844903645289398280)
 
+[Android Deep Link 深度链接](https://juejin.cn/post/7073731278612201509?share_token=4879726c-7b32-455f-9f3d-749698ed75d7)
+
 
 
