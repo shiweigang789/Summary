@@ -397,5 +397,5 @@
 
 [CMake教程](https://zhuanlan.zhihu.com/p/534439206)
 
-
+[CMake 保姆级教程](https://subingwen.cn/cmake/CMake-primer/)
 
